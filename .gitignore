@@ -1,0 +1,11 @@
+# weights, data and large outputs
+*.pth
+*.pt
+*.mp4
+training/
+validation/
+testing/
+output/
+videos/
+__pycache__/
+*.pyc
